@@ -5,3 +5,6 @@ This is an example repository for the Git tutorial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 it is now includes steps for github
 learning pull 
+new update readme branch
+<added new branch>
+<updated readme>
